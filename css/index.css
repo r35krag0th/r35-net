@@ -1,0 +1,22 @@
+body {
+	margin: 10px;
+	background: #333;
+	color: #e1e2e3;
+}
+
+a {
+	color: #0bc;
+}
+
+a:hover {
+	color: #08c;
+	text-decoration: none;
+}
+
+dl.dl-horizontal.thinner dt {
+	width: 80px;
+}
+
+dl.dl-horizontal.thinner dd {
+	margin-left: 100px;
+}
