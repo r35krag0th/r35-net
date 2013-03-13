@@ -20,3 +20,7 @@ dl.dl-horizontal.thinner dt {
 dl.dl-horizontal.thinner dd {
 	margin-left: 100px;
 }
+
+.project-badges {
+	vertical-align: top;
+}
