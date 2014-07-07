@@ -1,6 +1,6 @@
 function update_countdown() {
     var now = new Date();
-    var then = new Date(2014, 6, 17, 9, 0, 0);
+    var then = new Date(2014, 6, 23, 0, 0, 0);
 
     var delta = then - now;
     delta /= 1000;
