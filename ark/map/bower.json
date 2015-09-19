@@ -1,0 +1,22 @@
+{
+  "name": "ark-map",
+  "version": "1.0.0",
+  "homepage": "https://github.com/r35krag0th/r35-net",
+  "authors": [
+    "Bob Saska <git@r35.net>"
+  ],
+  "description": "A simple Ark Map for friends that play on my server",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "font-awesome": "fontawesome#~4.4.0",
+    "leaflet": "~0.7.5"
+  }
+}
